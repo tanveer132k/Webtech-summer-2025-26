@@ -1,0 +1,67 @@
+body {
+
+    background-color: #f4f6f5;
+    color: #050101;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+
+}
+
+h2 {
+    font-size: 28px;
+}
+
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    font-size: 18px;
+}
+
+th {
+    background-color: #2f3f46;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    border:solid #333;
+}
+
+td {
+    padding: 8px;
+    border:solid #333;
+}
+
+div {
+    width: 75%;
+    background-color: #b9d8ad;
+    padding: 30px;
+}
+
+div h2 {
+    text-align: center;
+}
+
+form {
+    width: 70%;
+
+    font-size: 22px;
+}
+
+
+input {
+    width: 350px;
+    padding: 10px;
+    font-size: 18px;
+    
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    font-size: 18px;
+}
